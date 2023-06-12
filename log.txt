@@ -1,0 +1,202 @@
+[update unlocked]
+[update lock]
+[update unlocked]
+[update lock]
+[update unlocked]
+[lock]尝试获取联系人
+[lock]尝试为 id:100000002 获取头像
+人
+[lock]尝试为 id:100000004 获取头像
+人
+[lock]尝试为 id:100000005 获取头像
+人
+[lock]尝试为 id:100000007 获取头像
+人
+[lock]尝试为 id:100000009 获取头像
+人
+[lock]尝试为 id:600000001 获取头像
+人
+[lock]尝试为 id:600000002 获取头像
+人
+刷新整个列表
+��,目前共:7个[update unlocked]
+[lock]尝试获取联系人
+[lock]尝试为 id:100000002 获取头像
+人
+[lock]尝试为 id:100000004 获取头像
+人
+[lock]尝试为 id:100000005 获取头像
+人
+[lock]尝试为 id:100000007 获取头像
+人
+[lock]尝试为 id:100000009 获取头像
+人
+[lock]尝试为 id:600000001 获取头像
+人
+[lock]尝试为 id:600000002 获取头像
+人
+联系人新增完成,目前共:7个联系人
+[update unlocked]
+start [getContacts]
+cts
+[lock]try get avatar for id:100000002 
+s now
+a
+[lock]try get avatar for id:100000004 
+s now
+[lock]try get avatar for id:100000005 
+s now
+[lock]try get avatar for id:100000007 
+s now
+[lock]try get avatar for id:100000009 
+s now
+[lock]try get avatar for id:600000001 
+s now
+[lock]try get avatar for id:600000002 
+s now
+[update unlocked]
+d ,there is :7contacts now
+start [getContacts]
+cts
+[lock]try get avatar for id:100000002 
+s now
+a
+[lock]try get avatar for id:100000004 
+s now
+[lock]try get avatar for id:100000005 
+s now
+[lock]try get avatar for id:100000007 
+s now
+[lock]try get avatar for id:100000009 
+s now
+[lock]try get avatar for id:600000001 
+s now
+[lock]try get avatar for id:600000002 
+s now
+add contact succeed ,there is :7contacts now
+[update unlocked]
+start [getContacts]
+cts
+[lock]try get avatar for id:100000002 
+s now
+a
+[lock]try get avatar for id:100000004 
+s now
+[lock]try get avatar for id:100000005 
+s now
+[lock]try get avatar for id:100000007 
+s now
+[lock]try get avatar for id:100000009 
+s now
+[lock]try get avatar for id:600000001 
+s now
+[lock]try get avatar for id:600000002 
+s now
+add contact succeed ,there is :7contacts now
+[update unlocked]
+[lock] try get contacts
+[lock]try get avatar for id:100000002 
+s now
+a
+[lock]try get avatar for id:100000004 
+s now
+[lock]try get avatar for id:100000005 
+s now
+[lock]try get avatar for id:100000007 
+s now
+[lock]try get avatar for id:100000009 
+s now
+[lock]try get avatar for id:600000001 
+s now
+[lock]try get avatar for id:600000002 
+s now
+reflush list
+ucceed ,there is :7contacts now
+[update unlocked]
+[lock]try get tx for id:100000002 
+tch db data
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[lock]try get tx for id:100000002 
+tch db data
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[lock]try get tx for id:100000002 
+tch db data
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[lock]try get tx for id:100000002 
+tch db data
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[lock]try get tx for id:100000002 
+tch db data
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[lock]try get tx for id:100000002 
+tch db data
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[lock]try get tx for id:100000002 
+tch db data
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[lock]try get tx for id:100000002 
+tch db data
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000002 
+from Function 'toString':.]
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[lock]try get tx for id:100000002 
+from Function 'toString':.]
+[lock]try get tx for id:100000004 
+[lock]try get tx for id:100000005 
+[lock]try get tx for id:100000007 
+[lock]try get tx for id:100000009 
+[lock]try get tx for id:600000001 
+[lock]try get tx for id:600000002 
+get tx for id:600000002 succeed 
+[contact lst Closure: () => String from Function 'toString':.]
+[contact lst Closure: () => String from Function 'toString':.]
