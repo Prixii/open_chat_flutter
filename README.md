@@ -4,7 +4,7 @@
 
 阅读此代码可能对您的精神造成不可逆的损伤，如果出现身体不适等不良症状请您及时就医
 
-在运行本程序之前，请确保服务器中安装有 **[原神](![img](file:///C:\Users\27929\AppData\Roaming\Tencent\QQTempSys\%W@GJ$ACOF(TYDYECOKVDYB.png)https://ys.mihoyo.com/)**，以保证程序正常运行
+在运行本程序之前，请确保服务器中安装有 **[原神]**，以保证程序正常运行
 
 # 关于项目 / About Repository
 
